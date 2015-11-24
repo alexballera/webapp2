@@ -1,0 +1,30 @@
+{
+  "name": "miplantilla",
+  "description": "Plantilla Front End automatizada con Gulp",
+  "main": "gulpfile.js",
+  "authors": [
+    "Alex Ballera <alexballera@gmail.com> (http://alexballera.com)"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "html5",
+    "plantilla",
+    "gulp"
+  ],
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "homepage": "https://github.com/alexballera/webapp",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}
